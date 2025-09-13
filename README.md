@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/devkimchi-meai-azure-ai-foundry-mcp-sample-badge.png)](https://mseep.ai/app/devkimchi-meai-azure-ai-foundry-mcp-sample)
+
 # MEAI, Azure AI Foundry, Foundry Local and MCP Sample
 
 Did you know .NET is the most versatile language to build both frontend and backend apps? In addition to that, .NET is also capable of building AI infused app really easily. This repository provides several sample apps using Microsoft.Extensions.AI, Azure AI Foundry, Foundry Local and MCP server/client.
